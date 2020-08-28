@@ -1,0 +1,11 @@
+- [01-基础班-课件](./docs/_sidebar.md)
+  - [day01-java基础语法](./docs/01-基础班-课件/day01-java基础语法.md)
+  - [day02-Java基础语法](./docs/01-基础班-课件/day02-Java基础语法.md)
+  - [day03-switch&循环语句](./docs/01-基础班-课件/day03-switch&循环语句.md)
+  - [day04-IDEA工具&数组](./docs/01-基础班-课件/day04-IDEA工具&数组.md)
+  - [day05-方法](./docs/01-基础班-课件/day05-方法.md)
+  - [day06-Debug&基础练习](./docs/01-基础班-课件/day06-Debug&基础练习.md)
+  - [day07-面向对象](./docs/01-基础班-课件/day07-面向对象.md)
+  - [day08-常用API](./docs/01-基础班-课件/day08-常用API.md)
+  - [day09-ArrayList集合&学生管理系统](./docs/01-基础班-课件/day09-ArrayList集合&学生管理系统.md)
+
