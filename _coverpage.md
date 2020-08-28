@@ -5,5 +5,5 @@
 
 [常用资料](https://shimo.im/docs/MuiACIg1HlYfVxrj)
 [资料归档](https://mrbird.cc/archives)
-[Gitee](https://gitee.com/wind_essence/Study-Note)
-[开始阅读](#StudyNote)
+[Gitee](https://gitee.com/wind_essence/JavaEE360)
+[开始阅读](#JavaEE360)
